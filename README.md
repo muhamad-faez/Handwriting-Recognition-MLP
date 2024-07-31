@@ -1,5 +1,7 @@
 # Handwriting Recognition MLP
 
+![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
+
 This project aims to develop a Multilayer Perceptron (MLP) for handwriting recognition and localization of handwritten characters in images.
 
 ## Getting Started
@@ -37,4 +39,4 @@ This project aims to develop a Multilayer Perceptron (MLP) for handwriting recog
 Feel free to submit issues, fork the repository, and send pull requests.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
