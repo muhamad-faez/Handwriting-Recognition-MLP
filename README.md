@@ -5,7 +5,6 @@ This project aims to develop a Multilayer Perceptron (MLP) for handwriting recog
 ## Getting Started
 
 ### Prerequisites
-
 - Python 3.x
 - PyTorch
 - TorchMetrics
@@ -33,7 +32,7 @@ This project aims to develop a Multilayer Perceptron (MLP) for handwriting recog
 
 4. View the results
    - Use TensorBoard to visualize training metrics.
-   - Check the localized characters in Hello.jpg. 
+   - Check the localized characters in Hello.jpg. git 
 
 ## Contributing
 Feel free to submit issues, fork the repository, and send pull requests.
