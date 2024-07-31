@@ -17,8 +17,8 @@ This project aims to develop a Multilayer Perceptron (MLP) for handwriting recog
 ## Installation and Running the Project
 1. Clone the repository:
 ```sh
-        git clone https://github.com/muhamad-faez/Handwriting-Recognition-MLP.git
-        cd Handwriting-Recognition-MLP
+    git clone https://github.com/muhamad-faez/Handwriting-Recognition-MLP.git
+    cd Handwriting-Recognition-MLP
 ```
 
 2. Install the required packages:
