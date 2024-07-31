@@ -16,22 +16,24 @@ This project aims to develop a Multilayer Perceptron (MLP) for handwriting recog
 ## Installation and Running the Project
 
 1. Clone the repository:
-
-    git clone https://github.com/yourusername/Handwriting-Recognition-MLP.git
-    cd Handwriting-Recognition-MLP
+```sh
+        git clone https://github.com/muhamad-faez/Handwriting-Recognition-MLP.git
+        cd Handwriting-Recognition-MLP
+```
 
 2. Install the required packages:
-    
+```sh
     pip install -r requirements.txt
+```    
 
 3. Train and evaluate the model:
-
+```sh
     python main.py
+```  
 
 4. View the results
-
-   Use TensorBoard to visualize training metrics.
-   Check the localized characters in Hello.jpg. 
+   - Use TensorBoard to visualize training metrics.
+   - Check the localized characters in Hello.jpg. 
 
 ## Contributing
 Feel free to submit issues, fork the repository, and send pull requests.
