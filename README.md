@@ -13,7 +13,6 @@ This project aims to develop a Multilayer Perceptron (MLP) for handwriting recog
 - NumPy
 
 ## Installation and Running the Project
-
 1. Clone the repository:
 ```sh
         git clone https://github.com/muhamad-faez/Handwriting-Recognition-MLP.git
@@ -32,7 +31,7 @@ This project aims to develop a Multilayer Perceptron (MLP) for handwriting recog
 
 4. View the results
    - Use TensorBoard to visualize training metrics.
-   - Check the localized characters in Hello.jpg. git 
+   - Check the localized characters in Hello.jpg. 
 
 ## Contributing
 Feel free to submit issues, fork the repository, and send pull requests.
